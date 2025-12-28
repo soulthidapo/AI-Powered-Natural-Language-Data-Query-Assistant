@@ -20,7 +20,7 @@ This project demonstrates practical **Generative AI**, **LLM orchestration**, an
 
 ---
 
-##🔍 Problem (Business & User Perspective)
+## 🔍 Problem (Business & User Perspective)
 
 Musicians and content creators often lack objective yet creative feedback on:
 
@@ -32,7 +32,7 @@ Arrangement and production direction
 
 Existing tools are either too technical or disconnected from creative workflows.
 
-##💡 Solution (What This System Delivers)
+## 💡 Solution (What This System Delivers)
 
 This project delivers an end-to-end applied AI music intelligence system that:
 
@@ -44,7 +44,7 @@ Applies machine learning for classification or similarity
 
 Uses a Large Language Model (LLM) to generate musician-friendly insights
 
-##🧠 System Architecture (End-to-End AI Pipeline)
+## 🧠 System Architecture (End-to-End AI Pipeline)
 
 Audio Input (.wav / .mp3) → Audio Feature Extraction (librosa) → ML Intelligence (classification / embedding) → Generative AI (LLM) → Creative Insights for Musicians
 
@@ -70,7 +70,7 @@ Production tips
 
 Simple web-based UI
 
-##🛠️ Tech Stack (Production-Oriented)
+## 🛠️ Tech Stack (Production-Oriented)
 
 Python
 
@@ -85,6 +85,7 @@ scikit-learn (evaluation)
 OpenAI-compatible LLM API
 
 Streamlit (UI)
+
 
 
 
